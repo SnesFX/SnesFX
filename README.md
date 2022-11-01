@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ue4pak&show_icons=true&locale=en" alt="ue4pak" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ue4pak&layout=compact)](https://github.com/ue4pak/)
