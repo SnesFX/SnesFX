@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **nothing.**
 
-- 📫 How to reach me **Retro_Ty#5576**
+- 📫 How to reach me **Twitter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
