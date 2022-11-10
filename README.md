@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ue4pak" alt="ue4pak" /></a> </p>
 
-- 🔭 I’m currently working on [Rewind GS](https://github.com/ue4pak/RewindGS)
+- 🔭 I’m currently working on [S2HD Decomp](https://github.com/ue4pak/S2HD-SRC)
 
 - 🌱 I’m currently learning **C#,C+,C++,Python,and Java**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
-- 🤝 I’m looking for help with [Rewind PS](https://github.com/ue4pak/Rewind-PS)
+- 🤝 I’m looking for help with [S2HD Decomp](https://github.com/ue4pak/S2HD-SRC)
 
 - 💬 Ask me about **nothing.**
 
