@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ue4pak</h1>
+<h1 align="center">Hi 👋, I'm Zero</h1>
 <h3 align="center">A kid that codes lmao</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zero0xx" alt="zero0xx" /></a> </p>
