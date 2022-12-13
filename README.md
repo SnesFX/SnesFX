@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **Twitter**
 
+- [3DS Homebrew Stuff](https://github.com/3DS-Brew)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
