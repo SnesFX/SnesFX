@@ -1,29 +1,14 @@
-<h1 align="center">Hi 👋, I'm Zero</h1>
-<h3 align="center">A kid that codes lmao</h3>
+# Hey there, I'm [Zero0xx/Ty_1991](https://twitter.com/snesfx) 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zero0xx" alt="zero0xx" /></a> </p>
+### I'm mainly a front-end developer and thumbnail designer!
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,androidstudio,discord,git,flutter,haxe,unity&perline=3)](https://skillicons.dev)
 
-- 🔭 I’m currently working on [S2HD Decomp](https://github.com/ue4pak/S2HD-SRC)
+<hr>
 
-- 🌱 I’m currently learning **C#,C+,C++,Python,and Java**
+### You can view all of my projects [here](https://github.com/Zero0xx?tab=repositories).
 
-- 👯 I’m looking to collaborate on **Nothing**
+<hr>
 
-- 🤝 I’m looking for help with [S2HD Decomp](https://github.com/ue4pak/S2HD-SRC)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1013261966128709663)](https://discord.com/users/1013261966128709663)
 
-- 💬 Ask me about **nothing.**
-
-- 📫 How to reach me **Twitter**
-
-- [3DS Homebrew Stuff](https://github.com/3DS-Brew)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zero0xx&show_icons=true&locale=en" alt="zero0xx" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero0xx&layout=compact)](https://github.com/zero0xx/)
+![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero0xx&show_icons=true&theme=dracula)
