@@ -1,6 +1,6 @@
 # Hey there, I'm [Zero0xx/Ty_1991](https://twitter.com/snesfx) 👋
 
-### I'm mainly a front-end developer and thumbnail designer!
+### I like to fuck with code lmao
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,androidstudio,discord,git,flutter,haxe,unity&perline=3)](https://skillicons.dev)
 
 <hr>
