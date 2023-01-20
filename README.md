@@ -1,4 +1,4 @@
-# Hey there, I'm [Zero0xx/Ty_1991](https://twitter.com/snesfx) 👋
+# Hey there, I'm [SnesFX](https://twitter.com/snesfx) 👋
 
 ### I like to fuck with code lmao
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,androidstudio,discord,git,haxe,unity&perline=3)](https://skillicons.dev)
