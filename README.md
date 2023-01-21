@@ -5,10 +5,10 @@
 
 <hr>
 
-### You can view all of my projects [here](https://github.com/Zero0xx?tab=repositories).
+### You can view all of my projects [here](https://github.com/SnesFX?tab=repositories).
 
 <hr>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1013261966128709663)](https://discord.com/users/1013261966128709663)
+[![Discord Presence](https://lanyard.cnrad.dev/api/809760713638805537)](https://discord.com/users/809760713638805537)
 
-![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero0xx&show_icons=true&theme=dracula)
+![SnesFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero0xx&show_icons=true&theme=dracula)
