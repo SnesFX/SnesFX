@@ -11,4 +11,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/809760713638805537)](https://discord.com/users/809760713638805537)
 
-![SnesFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero0xx&show_icons=true&theme=dracula)
+![SnesFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=snesfx&show_icons=true&theme=dracula)
