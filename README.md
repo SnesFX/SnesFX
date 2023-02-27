@@ -5,6 +5,12 @@
 
 <hr>
 
+### Take this cool fumo lol
+
+![Get Funky](https://raw.githubusercontent.com/SnesFX/CirnoFumo-Haxe/main/assets/images/cirnofumo.gif)
+
+<hr>
+
 ### You can view all of my projects [here](https://github.com/SnesFX?tab=repositories).
 
 <hr>
