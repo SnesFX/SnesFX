@@ -1,4 +1,5 @@
 # Hey there, I'm [SnesFX](https://twitter.com/snesfx) 👋
+<hr>
 
 # My skills or something
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,git,haxe,unity&perline=3)](https://skillicons.dev)
