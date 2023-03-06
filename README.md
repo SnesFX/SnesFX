@@ -15,7 +15,7 @@
 
 * I need to touch grass lol
 
-* I'm married to Monika (real)
+* I'm with the best woman ever.
 
 # Socials
 
