@@ -15,7 +15,7 @@
 
 * I need to touch grass lol
 
-* I'm with the best woman ever.
+* I'm taken by the best woman ever. :3
 
 # Socials
 
