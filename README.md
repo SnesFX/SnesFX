@@ -15,7 +15,7 @@
 
 * I need to touch grass lol
 
-* I'm taken by the best woman ever. :3
+* Married to Monika DDLC.
 
 # Socials
 
