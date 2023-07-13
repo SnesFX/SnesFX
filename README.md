@@ -27,4 +27,4 @@
 
 * [Discord Server](https://discord.gg/ERVUDC4ZTB)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/809760713638805537)](https://discord.com/users/809760713638805537)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1013261966128709663)](https://discord.com/users/1013261966128709663)
