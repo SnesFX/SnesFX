@@ -5,6 +5,10 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,git,haxe,unity&perline=3)](https://skillicons.dev)
 <hr>
 
+# The truth.
+
+* Bocchi The Rock is the best anime.
+
 # Some Facts About me
 
 * Just your local dumbass lol
@@ -14,8 +18,6 @@
 * Sonic Fan
 
 * I need to touch grass lol
-
-* Married to Monika DDLC.
 
 # Socials
 
