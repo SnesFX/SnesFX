@@ -28,5 +28,3 @@
 * [Tiktok (I barely use it) ](https://tiktok.com/@tydevx)
 
 * [Discord Server] - Coming back soon...
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1013261966128709663)](https://discord.com/users/1013261966128709663)
