@@ -2,7 +2,7 @@
 <hr>
 
 # My skills or something
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,git,haxe,unity&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,git,haxe,unity&perline=3)](https://skillicons.dev)
 <hr>
 
 # The truth.
@@ -17,14 +17,10 @@
 
 * Sonic Fan
 
-* I need to touch grass lol
+* I need a life
 
 # Socials
 
 * [YT Channel](https://www.youtube.com/channel/UCoMADR-Wslplwk6gXiwAJRA)
 
 * [Twitter](https://twitter.com/snesfx)
-
-* [Tiktok (I barely use it) ](https://tiktok.com/@tydevx)
-
-* [Discord Server] - Coming back soon...
