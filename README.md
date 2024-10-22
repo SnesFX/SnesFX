@@ -1,26 +1,9 @@
-# Hey there, I'm [SnesFX](https://twitter.com/snesfx) 👋
-<hr>
+Yo I'm SnesFX/YoPhlox
 
-# My skills or something
-[![My Skills](https://skillicons.dev/icons?i=cs,git,haxe,unity&perline=3)](https://skillicons.dev)
-<hr>
+15
 
-# The truth.
+I mainly upload my Unity decomps and ports here.
 
-* Bocchi The Rock is the best anime.
+NX, PSVita, and 3DS Homebrew Dev.
 
-# Some Facts About me
-
-* Just your local dumbass lol
-
-* DDLC Fan
-
-* Sonic Fan
-
-* I need a life
-
-# Socials
-
-* [YT Channel](https://www.youtube.com/channel/UCoMADR-Wslplwk6gXiwAJRA)
-
-* [Twitter](https://twitter.com/snesfx)
+Main: @yophlox
